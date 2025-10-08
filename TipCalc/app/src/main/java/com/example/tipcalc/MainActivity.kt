@@ -60,7 +60,7 @@ fun TipCalcLayout() {
     val amount = amountInput.toDoubleOrNull() ?: 0.0
 
     var customTipInput by remember { mutableStateOf("") }
-    val customTip = customTipInput.toDoubleOrNull() ?: 0.0   // fixed here
+    val customTip = customTipInput.toDoubleOrNull() ?: 20.0   // fixed here
 
     val tip = calculateTip(amount, customTip)
     Column(
