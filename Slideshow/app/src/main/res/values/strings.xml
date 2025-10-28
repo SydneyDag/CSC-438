@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Slideshow</string>
+
+    <string name="img1">1. Lily on the fridge.</string>
+    <string name="img2">2. Max doesn\'t like winter</string>
+    <string name="img3">3. Lily napping on the table</string>
+    <string name="img4">4. Max wearing a hat</string>
+    <string name="img5">5. Lily doing laundry</string>
+    <string name="img6">6. Max going for a ride</string>
+    <string name="img7">7. Max after a long day at work</string>
+    <string name="img8">8. Max at Miller Field</string>
+
+</resources>
